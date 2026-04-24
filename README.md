@@ -69,7 +69,7 @@ alumni_system/
 
 ```bash
 git clone https://github.com/Aldis044/alumni_system.git
-cd alumni_system
+cd alumni_system_2
 ```
 
 ### 2. Install dependensi
